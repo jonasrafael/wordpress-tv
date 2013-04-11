@@ -3,7 +3,11 @@ WORDPRESS-TV
 
 Theme Framework created for a client who unfortunately not pay my bills and we'll do upload to the whole community will that now can have a similar site.
 
-This theme, run with:
+
+======================================
+This theme, need this plugins to work:
+======================================
+
 - facebook-comments
 - google-analytics-dashboard
 - touchcarousel
@@ -14,3 +18,10 @@ This theme, run with:
 - add-post-thumbnail-shortcode
 - seo-tag-cloud
 - smooth-slider
+
+ 
+======================================
+Extend Plugins * optional
+======================================
+- akismet
+- addthis
