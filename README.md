@@ -18,6 +18,7 @@ This theme, need this plugins to work:
 - add-post-thumbnail-shortcode
 - seo-tag-cloud
 - smooth-slider
+- wp-eis
 
  
 ======================================
