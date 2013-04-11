@@ -1,7 +1,9 @@
 WORDPRESS-TV
 ============
 
-Theme Framework created for a client who unfortunately not pay my bills and we'll do upload to the whole community will that now can have a similar site.
+Theme Framework created for a client who unfortunately not pay my bill. We'll do upload to the whole community will that now can have a similar site.
+
+With a same skin.
 
 
 ======================================
